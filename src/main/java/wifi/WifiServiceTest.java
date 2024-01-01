@@ -1,8 +1,7 @@
-package src.main.wifi;
+package src.main.java.wifi;
 
-import src.main.wifi.vo.History;
-import src.main.wifi.vo.Row;
-import src.main.wifi.vo.WifiInfo;
+import src.main.java.wifi.vo.History;
+import src.main.java.wifi.vo.Row;
 
 import java.io.IOException;
 import java.sql.SQLException;

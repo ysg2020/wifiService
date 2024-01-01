@@ -1,4 +1,4 @@
-package src.main.wifi.vo;
+package src.main.java.wifi.vo;
 
 import lombok.Getter;
 import lombok.Setter;

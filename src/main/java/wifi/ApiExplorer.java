@@ -1,7 +1,7 @@
-package src.main.wifi;
+package src.main.java.wifi;
 
 import com.google.gson.Gson;
-import src.main.wifi.vo.WifiInfo;
+import src.main.java.wifi.vo.WifiInfo;
 
 import java.io.BufferedReader;
 import java.io.IOException;

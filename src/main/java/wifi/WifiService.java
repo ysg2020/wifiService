@@ -1,6 +1,6 @@
-package src.main.wifi;
+package src.main.java.wifi;
 
-import src.main.wifi.vo.*;
+import src.main.java.wifi.vo.*;
 
 import java.io.IOException;
 import java.sql.SQLException;
